@@ -1,0 +1,75 @@
+h3 {
+  font-size: 25px;}
+h4 {
+  font-size: 20px;}
+.hide {
+   display: none;}
+.title {
+  font-family: 'Raleway', sans-serif, cursive;
+  font-weight: bold;
+  font-size: 50px;}
+.caption {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;}
+.byline {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;}
+.date {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;}
+.introp {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;}
+.friday  {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;}
+.saturday {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;}
+.sunday {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;}
+.friday1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.friday2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.friday3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.friday4 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday4 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday5 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.sunday1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.sunday2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.sunday3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.lodging {
+  font-family: 'Raleway', sans-serif, cursive;}
+.lodgingp {
+  font-family: 'Raleway', sans-serif, cursive;
+  line-height: 1.6;
+  text-indent: 25px;}
