@@ -3,4 +3,8 @@ $( document ).ready(function() {
 
     M.AutoInit();
 
+  ScrollReveal().reveal('.headline', {reset: true });
+
+  $(".story-heading").remove()
+
 });
